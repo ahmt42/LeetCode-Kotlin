@@ -2,8 +2,6 @@ package easy
 
 /*
  * [1] Two Sum
- *
- *
  */
 
 class Solution {
